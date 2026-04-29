@@ -1,7 +1,3 @@
----
-layout: default
----
-
 #                                  NABIHA SOHAIL 
 
 ##                                   About Me
