@@ -1,7 +1,5 @@
 # NABIHA SOHAIL   
 
-## About Me
-
 I am a Computer Science student passionate about building real-world solutions using software and hardware. I enjoy problem-solving and continuously learning new technologies to improve my development skills.
 
 ##  CONTACT
